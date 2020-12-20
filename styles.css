@@ -2,18 +2,30 @@
     background-color: lightgrey;
     font-family: 'Helvetica', sans-serif;
 }
+#header {
+    text-align: center;
+    padding: 5px;
+}
 #img-div {
     background-color: white;
     padding-top: 15px;
     margin: 0px 15px;
 }
 #img-div img {
-    /*max-width: 70%;*/
-    /*height: auto;*/
+    max-width: 50%;
+    height: auto;
     display: block;
     margin: auto;
+}
+#img-div a {
+    text-decoration: none;
 }
 #img-caption {
     text-align: center;
     padding: 5px;
+}
+#tribute-links a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
 }
