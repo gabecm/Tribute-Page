@@ -1,0 +1,19 @@
+#main {
+    background-color: lightgrey;
+    font-family: 'Helvetica', sans-serif;
+}
+#img-div {
+    background-color: white;
+    padding-top: 15px;
+    margin: 0px 15px;
+}
+#img-div img {
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#img-caption {
+    text-align: center;
+    padding: 5px;
+}
