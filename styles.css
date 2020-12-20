@@ -8,8 +8,8 @@
     margin: 0px 15px;
 }
 #img-div img {
-    max-width: 70%;
-    height: auto;
+    /*max-width: 70%;*/
+    /*height: auto;*/
     display: block;
     margin: auto;
 }
