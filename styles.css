@@ -3,7 +3,7 @@
     font-family: 'Helvetica', sans-serif;
 }
 #header {
-    text-align: left;
+    text-align: center;
     padding: 5px;
 }
 #img-div {
@@ -12,7 +12,7 @@
     margin: 0px 15px;
 }
 #img-div img {
-    max-width: 50%;
+    max-width: 80%;
     height: auto;
     display: block;
     margin: auto;
@@ -30,7 +30,26 @@
     text-align: center;
 }
 
-ul{
-    max-width: 50%;
+#tribute-info{
+    max-width: 40%;
     margin: 0 auto;
+}
+
+#tribute-info a {
+    text-decoration: none;
+}
+
+ul{
+    line-height: 1.6;
+}
+
+li {
+    margin: 20px auto;
+}
+
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
 }
