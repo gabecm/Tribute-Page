@@ -3,7 +3,7 @@
     font-family: 'Helvetica', sans-serif;
 }
 #header {
-    text-align: center;
+    text-align: left;
     padding: 5px;
 }
 #img-div {
@@ -28,4 +28,9 @@
     display: block;
     text-decoration: none;
     text-align: center;
+}
+
+ul{
+    max-width: 50%;
+    margin: 0 auto;
 }
