@@ -58,3 +58,6 @@ h3 {
 p {
     text-align: center;
 }
+iframe {
+    margin: 0 auto;
+}
